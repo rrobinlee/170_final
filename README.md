@@ -2,6 +2,10 @@
 
 ## Forecasting 2022 U.S. Unemployment Rate Based on Housing Supply Rate and Interest Rate Using Federal Reserve Economic Data
 
+**Author:** *Ellen Wei, Robin Lee, Xuxin Zhang*
+
+**Date:** *February 27, 2023*
+
 ## Introduction
 
 With the number of layoffs in the tech industry escalating throughout the United States following a nation-wide increase in interest rates, we have hypothesized that interest rate is definitely a significant factor that noticeably affects the unemployment rate—raising the question, what other circumstances influence employment? Thus, by applying time series analysis, we attempt to answer the following: what are other potential factors that impact the unemployment rate?
