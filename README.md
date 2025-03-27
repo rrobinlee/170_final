@@ -1,6 +1,4 @@
-# STATS 170 Final Project
-
-## Forecasting 2022 U.S. Unemployment Rate Based on Housing Supply Rate and Interest Rate Using Federal Reserve Economic Data 
+# Forecasting 2022 U.S. Unemployment Rate Based on Housing Supply Rate and Interest Rate Using Federal Reserve Economic Data 
 
 **Author:** *Ellen Wei, Robin Lee, Xuxin Zhang*
 
